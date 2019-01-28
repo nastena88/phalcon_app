@@ -1,0 +1,14 @@
+**/cache
+**/logs
+config.php
+.idea
+.phalcon
+.git
+composer.lock
+**/vendor
+*.log
+.htaccess
+docker-compose.yml
+codeception.yml
+*.key
+.env
